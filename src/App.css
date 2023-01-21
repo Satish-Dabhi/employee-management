@@ -1,0 +1,21 @@
+.data-table{
+    width: 100%;
+    
+}
+.table-grid{
+    margin-top: 2%;
+}
+
+.data-table-title{
+border-color: blue;
+}
+.table-row{
+    border-bottom: 1px solid black;
+
+}
+
+.table-grid td{
+    padding: 15px;
+    text-align: center;
+}
+

@@ -1,0 +1,24 @@
+.close-icon-button {
+    display: flex;
+    justify-content: end;
+  }
+  
+  .MuiDrawer-paper .close-icon-button .MuiIconButton-root {
+      padding: 18px 17.76px;
+    }
+  
+
+  
+  .close-icon-button .MuiSvgIcon-root {
+    height: 2rem;
+    width: 2rem;
+    color: black;
+  }
+
+
+  .sidebar-icon {
+    display: flex;
+    justify-content: end;
+    width: 88%;
+  }
+  
